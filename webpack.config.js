@@ -1,6 +1,6 @@
 //we're gonna first need the exports for the module and put in our mode
 // you got this :-)
-// import path from 'path'
+import path from 'path'
 
 
 module.exports = {
